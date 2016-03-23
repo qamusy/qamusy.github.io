@@ -1,0 +1,13 @@
+# Site settings
+title: Qamusy
+email: hi@qamusy.com
+description: English Vocabulary Builder with pictures to help you memorize things easily and faster > # this means to ignore newlines until "baseurl:"
+baseurl: "/" # the subpath of your site, e.g. /blog/
+url: "qamusy.com" # the base hostname & protocol for your site
+
+twitter_username: qamusy
+facebook_username: qamusy
+github_username: 
+
+# Build settings
+markdown: kramdown
